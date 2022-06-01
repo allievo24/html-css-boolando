@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*inizio heade*/
+.container {
+    height: 100px;
+    width: 100%;
+    background-color: #D4A520;
+    display: flex;
+}
+.logo{
+    width: 20%;
+    height: 20%;
+}
