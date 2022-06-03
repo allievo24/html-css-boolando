@@ -8,12 +8,15 @@
     height: 100px;
     width: 100%;
     background-color: #D4A520;
+    display: flex;
+    justify-content: space-around;
+    align-items:center ;
     
 }
 .logo img {
-
-    height: 70px;
-    border: 2px solid black;
+    
+    height: 30px;
+    
 }
 span{
     
@@ -76,6 +79,20 @@ span{
     
  }
 
-i{
+.icone{
     border: 2px solid black;
+    font-size: 20px;
+    color: rgba(240, 255, 240, 0.688);
+}
+
+.prodotto .img-secondaria{
+    position: absolute;
+    left: 0px;
+    top:0px;
+    
+}
+
+.img-secondaria:hover{
+    display: none;
+    
 }
