@@ -223,3 +223,11 @@ le icone con la parte sinistra
    border: 2px solid black
  }
  /*fine regole debug*/
+
+
+
+/* ciao said  buon pomeriggio./*
+  ho visto l'esercizio boolando, hai fatto davvero un buon lavoro :+1: qualche commento per te:
+meglio non mettere l'hover su un elemento che fai sparire. sarebbe stato meglio mettere l'hover su .prodotto 
+le etichette le avresti potute mettere in un contenitore unico posizionato in absolute, anzichè metterle singolarmente e poi spostarle col padding 
+non usare troppo position, molto spesso non ce n'è bisogno (in questo esercizio basta usarlo solo per il cuore e le etichette) 
